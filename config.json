@@ -1,10 +1,10 @@
 {
-  "telegramApiToken": null,
-  "chatId": null,
+  "telegramApiToken": API_TOKEN,
+  "chatId": CHAT_ID,
   "projects": [
     {
-      "topic": "",
-      "url": ""
+      "topic": "car",
+      "url": "https://www.yad2.co.il/vehicles/cars?manufacturer=141&model=13050&price=10000-130000&km=-1-80000"
     }
   ]
 }
